@@ -2,7 +2,7 @@
 
 <img width="800" height="1200" alt="image" src="https://github.com/user-attachments/assets/ed33d570-0c61-4109-8ee2-4967cab25560" />
 
-## Here’s the exact last class code, fully working and ready to copy and paste into your Python editor (Visual Studio Code, or Jupyter Notebook).
+## Here’s the exact last class code! Ready to copy and paste into your Python editor (Visual Studio Code, or Jupyter Notebook).
 ```
 import numpy as np
 import cv2
@@ -41,3 +41,8 @@ kernel = np.array([[0, -1, 1],
 ```
 A matrix (small grid of numbers) that tells the computer how to change each pixel’s brightness. Used for image sharpening — it highlights edges and details. Each number in the kernel affects nearby pixels, kind of like giving instructions for how to “redraw” the image.
 
+Define 
+
+Reading:
+1. https://setosa.io/ev/image-kernels/
+2. https://www.geeksforgeeks.org/deep-learning/types-of-convolution-kernels/#1-identity-kernel
