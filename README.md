@@ -26,7 +26,8 @@ print(spooky)
 ```
 ```spooky = cv2.imread("polar bear.png")```
 This variable stores the image you loaded from your computer.
-Variables = store information 
+Variables = store information.
+
 The image is saved as a NumPy array — a grid of numbers representing each pixel’s color (Blue, Green, Red).
 
 Think of it like a spreadsheet full of color data for each pixel!
