@@ -2,7 +2,7 @@
 
 <img width="800" height="1200" alt="image" src="https://github.com/user-attachments/assets/ed33d570-0c61-4109-8ee2-4967cab25560" />
 
-## Here’s the exact last class code, fully working and ready to copy and paste into your Python editor (Visual Studio, VS Code, or Jupyter Notebook).
+## Here’s the exact last class code, fully working and ready to copy and paste into your Python editor (Visual Studio Code, or Jupyter Notebook).
 ```
 import numpy as np
 import cv2
@@ -26,7 +26,7 @@ print(spooky)
 ```
 ```spooky = cv2.imread("polar bear.png")```
 This variable stores the image you loaded from your computer.
-
+Variables = store information 
 The image is saved as a NumPy array — a grid of numbers representing each pixel’s color (Blue, Green, Red).
 
 Think of it like a spreadsheet full of color data for each pixel!
